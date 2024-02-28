@@ -6,7 +6,7 @@ website design project
 🌟 About
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://github.com/gintas3073
+Site published at: https://github.com/gintas3073/bit-mokslai.git
 
 Design: UFO
 

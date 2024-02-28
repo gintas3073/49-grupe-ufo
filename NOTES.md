@@ -13,10 +13,10 @@ Notes
    .vscode
    .DS_Store
 
-git init
-siusti i github 8. Github pagr puslapyje, desinysis sonas:
-description
-topics (aka hashtag);
-releases(nuimk)
-packages 9. Pagrind meniu setings GitHub pages
-build and deploiment -- branch --- bet ka tik ne none
+5. git init siusti i github
+6. Github pagr puslapyje, desinysis sonas:
+   description
+   topics (aka hashtag);
+   releases(nuimk)
+   packages 9. Pagrind meniu setings GitHub pages
+   build and deploiment -- branch --- bet ka tik ne none
